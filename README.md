@@ -8,7 +8,7 @@
   <h2 align="center">HomeCare - Real estate website</h2>
 
 HomeCare is fully responsive Real estate website
-<a href="https://codewithsadee.github.io/homeverse/"><strong>➥ Live Demo</strong></a>
+<a href="https://homecare-realstate.netlify.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -77,7 +77,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:
+- Live Site URL:https://homecare-realstate.netlify.app
 
 ## My process
 
